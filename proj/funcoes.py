@@ -1,6 +1,5 @@
 
-from funcoes import
-
+import funcoes
 import random
 import time
 
