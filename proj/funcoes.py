@@ -1,4 +1,5 @@
 
+from funcoes import
 
 import random
 import time
@@ -12,7 +13,7 @@ print("Pronto!")
 
 
 
-from funcoes import  
+
 
 introducao()
 mostrar_status()
