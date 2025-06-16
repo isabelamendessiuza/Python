@@ -1,5 +1,17 @@
 
 
+import random
+import time
+
+num = random.randint(1, 10)
+print(f"Número aleatório: {num}")
+
+print("Esperando 2 segundos...")
+time.sleep(2)
+print("Pronto!")
+
+
+
 from funcoes import  
 
 introducao()
