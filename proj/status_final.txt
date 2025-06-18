@@ -1,0 +1,5 @@
+=== STATUS FINAL DO JOGADOR ===
+Vida: 0/100
+Energia: 100/100
+Pontos: 0
+Mochila: []
